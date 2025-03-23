@@ -67,8 +67,7 @@ function App() {
                 phone_number: phoneNumber,
                 task: selectedScript,
                 voice: "Nat",
-                language: "hi",
-                wait_for_greeting: true,
+                wait_for_greeting: false,
             }),
         };
 
